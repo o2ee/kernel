@@ -1,7 +1,7 @@
 Welcome to the kernelTools wiki!
 
 
-*   **[Home](/tsuibin/kernelTools/wiki)**
+*   **[Home](/README.md)**
 *   **[1 内容概要及相关知识的准备](/1-%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81%E5%8F%8A%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%9A%84%E5%87%86%E5%A4%87.md)**
 *   **[1.1 环境配置及说明](/1.1-%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E5%8F%8A%E8%AF%B4%E6%98%8E.md)**
 *   **[1.2 Linux内核的配置、编译与安装](/1.2-Linux%E5%86%85%E6%A0%B8%E7%9A%84%E9%85%8D%E7%BD%AE%E3%80%81%E7%BC%96%E8%AF%91%E4%B8%8E%E5%AE%89%E8%A3%85.md)**
